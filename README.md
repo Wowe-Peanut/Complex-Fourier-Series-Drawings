@@ -6,11 +6,14 @@ The code reads in an SVG path and turns it into a giant piecewise function of be
 
 I tried to replicate the visuals of 3b1b's animations as I really liked the look of them (white arrow, black background, yellow path... etc). Here are a few examples:
 
-Anime Girl:
+Anime Girl, Not my art: https://www.seekpng.com/ipng/u2w7u2q8t4i1i1o0_lineart-anime-mao-zedong/
 
 ![animegirl](https://user-images.githubusercontent.com/47678647/180617179-4ae811cd-5afd-4027-8858-db66235d7714.PNG)
 
-Sova (Valorant):
+https://user-images.githubusercontent.com/47678647/180617587-0a6869e9-d5e1-4034-8c93-7cb87a474b7e.mp4
+
+
+Sova (Valorant), Not my art: https://dribbble.com/shots/11126445-Sova-Valorant-logo
 
 ![SOVA worked!](https://user-images.githubusercontent.com/47678647/180617208-eec6a582-f1a8-466f-86ed-82b1c2870931.PNG)
 
