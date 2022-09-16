@@ -6,7 +6,7 @@ import random
 file_name = input("SVG File Name: ")
 
 #Parse the svg
-doc = minidom.parse(r"C:\Users\Ryan O'Mullan\Desktop\{0}.svg".format(file_name))  
+doc = minidom.parse(r"C:\Users\Peanu\OneDrive\Desktop\{0}.svg".format(file_name))  
 path_strings = [path.getAttribute('d') for path
                 in doc.getElementsByTagName('path')]
 doc.unlink()
