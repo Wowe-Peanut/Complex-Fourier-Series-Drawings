@@ -1,6 +1,6 @@
 # Complex-Fourier-Series-Drawings
 
-Hi there! This was based on a 3b1b video about approxmating the graphs of different shapes using a bunch of spinning vectors. All code is my own but I did take inspiration from The Coding Train's video of fourier series in order to learn how to use the sketch.js library. The math used in this project is outlined completely in 3b1b's video on the matter so I highly recommend watching it. Grant, as usual, does an exceptional job out making the complicated math much more approachable and intuitive. 
+Hi there! This was based on a 3b1b video about approxmating the graphs of different shapes using a bunch of spinning vectors. All code is my own but I did take inspiration from The Coding Train's video of fourier series in order to learn how to use the sketch.js library. The math used in this project is outlined completely in 3b1b's video on the matter so I highly recommend watching it. Grant, as usual, does an exceptional job making the complicated math much more approachable and intuitive. 
 
 The code reads in an SVG path and turns it into a giant piecewise function of bezier curves in order to perform some integrals latter on. It then spits out vectors in the form: [frequency, real, imaginary]. Which I then copy/paste to my JS code which draws the vectors and sends them spinning, tracing the tip of the final vector as it goes. Note that in order for the program to work as intended, the SVG must contain ONLY 1 single, continuous, looping path. Any breaks in the line will cause the line to snap, ruining the drawing.
 
